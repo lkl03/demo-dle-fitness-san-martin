@@ -1,2 +1,7 @@
-# demo-dle-fitness-san-martin
-Demo web para DLE Fitness San Martin — diseñada por eterlab.
+# DLE Fitness San Martin
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
